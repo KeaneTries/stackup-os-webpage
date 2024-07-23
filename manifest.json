@@ -1,6 +1,6 @@
 {
-  "name": "buildspace os",
-  "description": "buildspace os — your new home for nights and weekends",
+  "name": "stackup os",
+  "description": "stackup os for stackies",
   "version": "1.0.0",
   "manifest_version": 3,
   "icons": {
