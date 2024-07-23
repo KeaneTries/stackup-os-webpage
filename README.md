@@ -2,7 +2,7 @@ Disclaimer: This is meant to be a simple project for a monthly challenge within 
 
 ## motivation
 you can clearly see this project is heavily inspired by the buildspace os. since the steps to install are the same, i will respect their original work and keep them below.
-for more detailed elaborations, check out the project link in the description of this project, or [jump to this section](https://github.com/KeaneTries/stackup-os-webpage?tab=readme-ov-file#stackie-os)
+for more detailed elaborations, check out the project link in the description of this project, or [jump to this section](#stackie-os)
 
 ## setup
 ### you don't need to write any code or know how to code to set this up. It will take 2 mins max — promise
