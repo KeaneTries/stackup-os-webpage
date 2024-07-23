@@ -1,4 +1,9 @@
 # stackup os
+Disclaimer: This is meant to be a simple project for a monthly challenge within the stackup community.
+
+## motivation
+you can clearly see this project is heavily inspired by the buildspace os. since the steps to install are the same, i will respect their original work and keep them below.
+for more detailed elaborations, check out the project link in the description of this project.
 
 ## setup
 ### you don't need to write any code or know how to code to set this up. It will take 2 mins max — promise
@@ -29,5 +34,4 @@ once you select it you should see this (nice you did it!)<br>
 now you can see this thing in action! Open a new tab and you'll notice that there is a prompt saying that the page was changed by the buildspace os extension. **Make sure to select keep it or it will not work.**<br>
 ![](https://i.imgur.com/UtvBBmW.png)
 
-## got questions?
-for any questions please send an email to support@buildspace.so
+
